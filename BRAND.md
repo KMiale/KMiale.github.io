@@ -48,3 +48,19 @@ No numbered section labels. All-cap headers increased by 2pt. Balance the perspe
 
 ## Campaign integration and measurement
 Every campaign requires a measurement framework and results context. Use HubSpot workflows from opt-in through website analytics and follow-up; integrate social media, website, CRM and Apollo with email outreach. Approved Networks 800G requires the wider launch program and email A/B testing context. Capitalize Sales when referring to the team. Do not invent campaign numbers, A/B variables, sample sizes, winners, or performance lifts. Delivered outputs must not be presented as measured pipeline results.
+
+## Concision and current service voice
+Campaign services and qualitative impact use present tense; samples demonstrate the work. Alternate light section backgrounds. State multimillion-dollar budget ownership within the commercial approach. Contact section shows LinkedIn https://www.linkedin.com/in/kati07/ instead of a visible email address, with an optional note field. Gmail remains the delivery destination in the form configuration. Education wording requested: MBE Coursework, E-Commerce.
+
+## Leadership voice
+Position Kati as the leader who creates marketing functions and develops teams. Use “I created the team” in historical leadership examples and “I create teams” in current service descriptions. Use “I led the team that…” for historical delivery and “I lead the team that…” for current services. Preserve ownership of strategy, budgets, operating models, and performance accountability. Hands-on expertise supports leadership; avoid making every deliverable sound personally executed. Do not invent additional hires or team sizes.
+
+## Kati’s voice
+Use the user's own language. Contractions are natural; avoid invented tech catchphrases and assistant-sounding slogans. Rejected: “same playbook,” “double down,” “AI earns its place in the stack.”
+
+Preferred wording:
+“I work with Sales to get them what they want and what they need: pipeline.”
+“Trackable ROI tells me where to go next.”
+“AI is a tool. Not a toy to use for the fun of it. And it doesn’t replace human decision-making.”
+
+Preserve the directness and rhythm. Correct typos without polishing away the personality.
