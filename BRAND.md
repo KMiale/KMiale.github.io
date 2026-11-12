@@ -39,3 +39,6 @@ Repository: KMiale/KMiale.github.io
 Homepage: index.html
 This file is a durable project reference, not confirmation of a ChatGPT account-level saved-memory update.
 
+
+## Portfolio content direction — November 12 update
+Lead with senior leadership building full marketing functions and revenue contribution. Explain samples within integrated campaigns: product launches, event exhibitions, thought leadership, sales/channel enablement, press outreach and coverage. Every sample must describe its role in the customer journey. Use “provides,” not “gives.” Link the original .eml file, not an email copy reconstruction. Approved Networks: initial full-time marketing hire taking over from the founder. NSI: led Lynn Networks GTM including website build. Place AI capacity and ROI within the operating model. Use the original Senior Marketing Leader 2026 PDF for downloads.
