@@ -42,3 +42,6 @@ This file is a durable project reference, not confirmation of a ChatGPT account-
 
 ## Portfolio content direction — November 12 update
 Lead with senior leadership building full marketing functions and revenue contribution. Explain samples within integrated campaigns: product launches, event exhibitions, thought leadership, sales/channel enablement, press outreach and coverage. Every sample must describe its role in the customer journey. Use “provides,” not “gives.” Link the original .eml file, not an email copy reconstruction. Approved Networks: initial full-time marketing hire taking over from the founder. NSI: led Lynn Networks GTM including website build. Place AI capacity and ROI within the operating model. Use the original Senior Marketing Leader 2026 PDF for downloads.
+
+## Design and campaign refinements
+No numbered section labels. All-cap headers increased by 2pt. Balance the perspective section. Keep company launches separate, including ENET 1.6T and Approved Networks 800G. Contextualize statistics in leadership narratives. Campaign framing: one GTM strategy defines who buyers are, what the company claims, how buyers find and buy, and how customers are retained. Co-Founder, Business Strategy and Marketing (Fractional). Contact form routes to katimiale@gmail.com.
