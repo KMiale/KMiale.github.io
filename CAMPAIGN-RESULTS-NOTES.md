@@ -1,0 +1,2 @@
+# Campaign result details to add
+The page includes measurement frameworks and delivered outcomes. Campaign-level performance numbers have not been supplied. To publish quantified results, provide engagement and conversion figures, qualified opportunity counts and pipeline contribution for each campaign. For the Approved Networks 800G A/B test, provide the hypothesis, changed variable, audience split/sample size, primary metric, observed result and decision. The website currently includes the user-confirmed use of A/B testing without inventing those details.

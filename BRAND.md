@@ -45,3 +45,6 @@ Lead with senior leadership building full marketing functions and revenue contri
 
 ## Design and campaign refinements
 No numbered section labels. All-cap headers increased by 2pt. Balance the perspective section. Keep company launches separate, including ENET 1.6T and Approved Networks 800G. Contextualize statistics in leadership narratives. Campaign framing: one GTM strategy defines who buyers are, what the company claims, how buyers find and buy, and how customers are retained. Co-Founder, Business Strategy and Marketing (Fractional). Contact form routes to katimiale@gmail.com.
+
+## Campaign integration and measurement
+Every campaign requires a measurement framework and results context. Use HubSpot workflows from opt-in through website analytics and follow-up; integrate social media, website, CRM and Apollo with email outreach. Approved Networks 800G requires the wider launch program and email A/B testing context. Capitalize Sales when referring to the team. Do not invent campaign numbers, A/B variables, sample sizes, winners, or performance lifts. Delivered outputs must not be presented as measured pipeline results.
