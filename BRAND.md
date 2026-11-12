@@ -64,3 +64,8 @@ Preferred wording:
 “AI is a tool. Not a toy to use for the fun of it. And it doesn’t replace human decision-making.”
 
 Preserve the directness and rhythm. Correct typos without polishing away the personality.
+
+Every campaign includes a wider-program dropdown so the full scope stays available without lengthening the default view.
+
+## Campaign examples and leadership growth
+Campaign results examples use only campaign types and no real campaign/company names. The supplied results workbook explicitly labels the numbers as fictional scenarios, so any use must remain clearly marked illustrative/modeled. Actual leadership history is separate: led a founder-run business through two acquisitions and company revenue growth from $17M to $80M. Do not imply marketing alone caused all company growth.
