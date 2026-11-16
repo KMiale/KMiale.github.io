@@ -197,7 +197,14 @@ main>section:nth-of-type(odd){background:#eaf0f3}main>section:nth-of-type(even){
     preview.rel = "noopener";
 
     const image = document.createElement("img");
-    image.src = "samples/" + sample.image;
+    const rootImages = {
+  "sales-proof": "Approved Networks Lab Video Thumbnail.png",
+  "thought-leadership": "Approved Networks Pod Cast.png"
+};
+
+image.src = rootImages[sample.section]
+  ? "./" + encodeURIComponent(rootImages[sample.section])
+  : "./samples/" + sample.image;
     image.alt = sample.alt;
     image.loading = "lazy";
     preview.append(image);
